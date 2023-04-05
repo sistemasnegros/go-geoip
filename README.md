@@ -56,7 +56,7 @@ curl -L "https://git.io/GeoLite2-Country.mmdb" -o ~/GeoLite2-Country.mmdb
 ```
 ### Installing from binary
 ```
-curl -L "https://github.com/sistemasnegros/go-geoip/releases/download/1.0.1/geoip" -o /usr/local/bin/
+curl -L "https://github.com/sistemasnegros/go-geoip/releases/download/latest/geoip" -o /usr/local/bin/geoip
 ```
 
 ### Installing from source
